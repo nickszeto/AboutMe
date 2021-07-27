@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @nickszeto
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R and Python and SwiftUI
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
     Email: szetonick@gmail.com
