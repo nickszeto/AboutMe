@@ -9,9 +9,14 @@
 
 ### Connect with me:
 
-<br />
-### Language and Tools:
+Twitter: @nickszeto
+Instagram: @nickszeto / @nickszeto.edits
 
+### Language and Tools:
+- R / RStudio
+- Python
+- Azure Cloud
+- SwiftUI 
 
 <br />
 
