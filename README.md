@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-Twitter: @nickszeto
-Instagram: @nickszeto / @nickszeto.edits
+- Twitter: @nickszeto
+- Instagram: @nickszeto / @nickszeto.edits
 
 ### Language and Tools:
 - R / RStudio
